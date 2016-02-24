@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Json</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_list_json">ListJsonActivity</string>
+</resources>
